@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="Purple and Pink Minimalist Front-End Developer LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/06ad19ea-14d1-40bd-ba7c-8e4484d49306" />
+
+
 # Oi, eu sou a Emy 👋
 
 Desenvolvedora Frontend apaixonada por interfaces bonitas
