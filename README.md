@@ -1,13 +1,13 @@
 <img width="1584" height="396" alt="Purple and Pink Minimalist Front-End Developer LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/06ad19ea-14d1-40bd-ba7c-8e4484d49306" />
 
 
-# Oi, eu sou a Emy 👋
+# Oi, eu sou a Emy 
 
 Desenvolvedora Frontend apaixonada por interfaces bonitas
 e experiências que impressionam.
 Ainda no começo da jornada, mas já deixando commits pelo caminho. 🚀
 
-## 🛠️ Tecnologias que uso
+## Tecnologias que uso
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -17,11 +17,11 @@ Ainda no começo da jornada, mas já deixando commits pelo caminho. 🚀
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🚀 O que estou fazendo agora
+## O que estou fazendo agora
 
-- 💼 Desenvolvendo sites 3D e Interativos com React e Three.js
-- 📚 Aprofundando conhecimentos em animações 3D para a web
-- 🐍 Explorando Python para automações e scripts
+-  Desenvolvendo sites 3D e Interativos com React e Three.js
+-  Aprofundando conhecimentos em animações 3D para a web
+-  Explorando Python para automações e scripts
 
 ## 📌 Projeto em destaque
 
