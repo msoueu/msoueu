@@ -23,7 +23,7 @@ A website for a criminal lawyer that had to feel serious, explain her work simpl
   </tr>
 </table>
 
-**My role:** design, front-end, content panel and deploy.
+**My role:** design, front-end, content panel and deploy.<br>
 **Stack:** React, Three.js, React Three Fiber, Supabase, Vercel.
 
 [Live site](https://advheloisamaximo.vercel.app) · [Code](https://github.com/msoueu/site-heloisa-maximo)
