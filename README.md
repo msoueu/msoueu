@@ -1,31 +1,46 @@
-<img width="1584" height="396" alt="Purple and Pink Minimalist Front-End Developer LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/06ad19ea-14d1-40bd-ba7c-8e4484d49306" />
+<img src="assets/cover.png" alt="Emy Felix: curls turning into lines of code" width="100%">
 
+[![Work with me](https://img.shields.io/badge/Work_with_me-6b3f8f?style=for-the-badge)](https://www.linkedin.com/in/emylaine-felix-1112851a0)
+[![See it live](https://img.shields.io/badge/See_it_live-2d333b?style=for-the-badge)](https://advheloisamaximo.vercel.app)
 
-# Oi, eu sou a Emy 
+## Featured project: Heloisa Maximo
 
-Desenvolvedora Frontend apaixonada por interfaces bonitas
-e experiências que impressionam.
-Ainda no começo da jornada, mas já deixando commits pelo caminho. 🚀
+A website for a criminal lawyer that had to feel serious, explain her work simply and make the first contact easier.
 
-## Tecnologias que uso
+<a href="https://advheloisamaximo.vercel.app"><img src="assets/heloisa-home.jpg" alt="Home page with a 3D statue and the lawyer's name" width="100%"></a>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<table>
+  <tr>
+    <td width="50%"><img src="assets/heloisa-chat.jpg" alt="Guided chat with four quick questions" width="100%"></td>
+    <td width="50%">
+      <ul>
+        <li>3D statue with a camera driven by scroll</li>
+        <li>Guided chat that organizes each case before WhatsApp</li>
+        <li>Admin panel to edit the site's content</li>
+        <li>Light and dark themes</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## O que estou fazendo agora
+**My role:** design, front-end, content panel and deploy.
+**Stack:** React, Three.js, React Three Fiber, Supabase, Vercel.
 
--  Desenvolvendo sites 3D e Interativos com React e Three.js
--  Aprofundando conhecimentos em animações 3D para a web
--  Explorando Python para automações e scripts
+[Live site](https://advheloisamaximo.vercel.app) · [Code](https://github.com/msoueu/site-heloisa-maximo)
 
-## 📌 Projeto em destaque
+## What I can build for you
 
-**[Site Heloisa Máximo](https://github.com/msoueu/site-heloisa-maximo)**
-Site institucional de advocacia com modelo 3D interativo,
-câmera animada e navegação por scroll.
-`React` `Three.js` `WebGL` `CSS3`
+| Business websites | Interactive 3D pages | Editable content |
+| --- | --- | --- |
+| Clear pages designed for your work and your clients | Motion and 3D that give a brand its own presence | A simple panel so you can update text without code |
+
+## Tech stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-2d333b?style=flat-square)
+![React](https://img.shields.io/badge/React-2d333b?style=flat-square)
+![Three.js](https://img.shields.io/badge/Three.js-2d333b?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-2d333b?style=flat-square)
+![Python](https://img.shields.io/badge/Python-2d333b?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-2d333b?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-2d333b?style=flat-square)
+![Git](https://img.shields.io/badge/Git-2d333b?style=flat-square)
